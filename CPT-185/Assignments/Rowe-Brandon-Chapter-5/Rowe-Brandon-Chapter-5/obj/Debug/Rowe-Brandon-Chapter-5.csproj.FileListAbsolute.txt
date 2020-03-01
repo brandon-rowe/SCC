@@ -1,0 +1,12 @@
+C:\Users\browe\Desktop\Rowe-Brandon-Chapter-5\Rowe-Brandon-Chapter-5\bin\Debug\Rowe-Brandon-Chapter-5.exe.config
+C:\Users\browe\Desktop\Rowe-Brandon-Chapter-5\Rowe-Brandon-Chapter-5\bin\Debug\Rowe-Brandon-Chapter-5.exe
+C:\Users\browe\Desktop\Rowe-Brandon-Chapter-5\Rowe-Brandon-Chapter-5\bin\Debug\Rowe-Brandon-Chapter-5.pdb
+C:\Users\browe\Desktop\Rowe-Brandon-Chapter-5\Rowe-Brandon-Chapter-5\obj\Debug\Rowe-Brandon-Chapter-5.csprojResolveAssemblyReference.cache
+C:\Users\browe\Desktop\Rowe-Brandon-Chapter-5\Rowe-Brandon-Chapter-5\obj\Debug\Rowe_Brandon_Chapter_5.Form1.resources
+C:\Users\browe\Desktop\Rowe-Brandon-Chapter-5\Rowe-Brandon-Chapter-5\obj\Debug\Rowe_Brandon_Chapter_5.Properties.Resources.resources
+C:\Users\browe\Desktop\Rowe-Brandon-Chapter-5\Rowe-Brandon-Chapter-5\obj\Debug\Rowe-Brandon-Chapter-5.csproj.GenerateResource.Cache
+C:\Users\browe\Desktop\Rowe-Brandon-Chapter-5\Rowe-Brandon-Chapter-5\obj\Debug\Rowe-Brandon-Chapter-5.exe
+C:\Users\browe\Desktop\Rowe-Brandon-Chapter-5\Rowe-Brandon-Chapter-5\obj\Debug\Rowe-Brandon-Chapter-5.pdb
+C:\Users\browe\Desktop\SCC CPT-185\Homework Weekly\Rowe-Brandon-Chapter-5\Rowe-Brandon-Chapter-5\bin\Debug\Rowe-Brandon-Chapter-5.exe.config
+C:\Users\browe\Desktop\SCC CPT-185\Homework Weekly\Rowe-Brandon-Chapter-5\Rowe-Brandon-Chapter-5\obj\Debug\Rowe-Brandon-Chapter-5.exe
+C:\Users\browe\Desktop\SCC CPT-185\Homework Weekly\Rowe-Brandon-Chapter-5\Rowe-Brandon-Chapter-5\obj\Debug\Rowe-Brandon-Chapter-5.pdb

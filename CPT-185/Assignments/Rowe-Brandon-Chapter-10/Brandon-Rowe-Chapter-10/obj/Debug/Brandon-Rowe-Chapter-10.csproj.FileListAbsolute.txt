@@ -1,0 +1,5 @@
+C:\Users\browe\Desktop\Brandon-Rowe-Chapter-10\Brandon-Rowe-Chapter-10\bin\Debug\Brandon-Rowe-Chapter-10.exe.config
+C:\Users\browe\Desktop\Brandon-Rowe-Chapter-10\Brandon-Rowe-Chapter-10\obj\Debug\Brandon-Rowe-Chapter-10.csprojResolveAssemblyReference.cache
+C:\Users\browe\Desktop\Brandon-Rowe-Chapter-10\Brandon-Rowe-Chapter-10\obj\Debug\Brandon_Rowe_Chapter_10.Form1.resources
+C:\Users\browe\Desktop\Brandon-Rowe-Chapter-10\Brandon-Rowe-Chapter-10\obj\Debug\Brandon_Rowe_Chapter_10.Properties.Resources.resources
+C:\Users\browe\Desktop\Brandon-Rowe-Chapter-10\Brandon-Rowe-Chapter-10\obj\Debug\Brandon-Rowe-Chapter-10.csproj.GenerateResource.Cache

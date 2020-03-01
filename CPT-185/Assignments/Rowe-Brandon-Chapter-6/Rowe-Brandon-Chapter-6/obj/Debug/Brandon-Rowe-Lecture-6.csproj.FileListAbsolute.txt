@@ -1,0 +1,12 @@
+C:\Users\browe\Desktop\Brandon-Rowe-Lecture-6\Brandon-Rowe-Lecture-6\bin\Debug\Brandon-Rowe-Lecture-6.exe.config
+C:\Users\browe\Desktop\Brandon-Rowe-Lecture-6\Brandon-Rowe-Lecture-6\obj\Debug\Brandon-Rowe-Lecture-6.csprojResolveAssemblyReference.cache
+C:\Users\browe\Desktop\Brandon-Rowe-Lecture-6\Brandon-Rowe-Lecture-6\obj\Debug\Brandon_Rowe_Lecture_6.Form1.resources
+C:\Users\browe\Desktop\Brandon-Rowe-Lecture-6\Brandon-Rowe-Lecture-6\obj\Debug\Brandon_Rowe_Lecture_6.Properties.Resources.resources
+C:\Users\browe\Desktop\Brandon-Rowe-Lecture-6\Brandon-Rowe-Lecture-6\obj\Debug\Brandon-Rowe-Lecture-6.csproj.GenerateResource.Cache
+C:\Users\browe\Desktop\Brandon-Rowe-Lecture-6\Brandon-Rowe-Lecture-6\bin\Debug\Brandon-Rowe-Lecture-6.exe
+C:\Users\browe\Desktop\Brandon-Rowe-Lecture-6\Brandon-Rowe-Lecture-6\bin\Debug\Brandon-Rowe-Lecture-6.pdb
+C:\Users\browe\Desktop\Brandon-Rowe-Lecture-6\Brandon-Rowe-Lecture-6\obj\Debug\Brandon-Rowe-Lecture-6.exe
+C:\Users\browe\Desktop\Brandon-Rowe-Lecture-6\Brandon-Rowe-Lecture-6\obj\Debug\Brandon-Rowe-Lecture-6.pdb
+C:\Users\browe\Desktop\SCC CPT-185\Brandon-Rowe-Lecture-6\Brandon-Rowe-Lecture-6\bin\Debug\Brandon-Rowe-Lecture-6.exe.config
+C:\Users\browe\Desktop\SCC CPT-185\Brandon-Rowe-Lecture-6\Brandon-Rowe-Lecture-6\obj\Debug\Brandon-Rowe-Lecture-6.exe
+C:\Users\browe\Desktop\SCC CPT-185\Brandon-Rowe-Lecture-6\Brandon-Rowe-Lecture-6\obj\Debug\Brandon-Rowe-Lecture-6.pdb

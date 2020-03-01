@@ -1,0 +1,9 @@
+C:\Users\browe\Desktop\Lecture-8\Lecture-8\bin\Debug\Lecture-8.exe.config
+C:\Users\browe\Desktop\Lecture-8\Lecture-8\obj\Debug\Lecture-8.csprojResolveAssemblyReference.cache
+C:\Users\browe\Desktop\Lecture-8\Lecture-8\obj\Debug\Lecture_8.Form1.resources
+C:\Users\browe\Desktop\Lecture-8\Lecture-8\obj\Debug\Lecture_8.Properties.Resources.resources
+C:\Users\browe\Desktop\Lecture-8\Lecture-8\obj\Debug\Lecture-8.csproj.GenerateResource.Cache
+C:\Users\browe\Desktop\Lecture-8\Lecture-8\bin\Debug\Lecture-8.exe
+C:\Users\browe\Desktop\Lecture-8\Lecture-8\bin\Debug\Lecture-8.pdb
+C:\Users\browe\Desktop\Lecture-8\Lecture-8\obj\Debug\Lecture-8.exe
+C:\Users\browe\Desktop\Lecture-8\Lecture-8\obj\Debug\Lecture-8.pdb

@@ -1,0 +1,12 @@
+C:\Users\browe\Desktop\SCC CPT-185\Rowe-Brandon-Chapter-11\Rowe-Brandon-Chapter-11\bin\Debug\Rowe-Brandon-Chapter-11.exe.config
+C:\Users\browe\Desktop\CPT\SCC CPT-185\Homework Weekly\Rowe-Brandon-Chapter-11\Rowe-Brandon-Chapter-11\bin\Debug\Rowe-Brandon-Chapter-11.exe.config
+C:\Users\browe\Desktop\CPT\SCC CPT-185\Homework Weekly\Rowe-Brandon-Chapter-11\Rowe-Brandon-Chapter-11\bin\Debug\Lesson.accdb
+C:\Users\browe\Desktop\CPT\SCC CPT-185\Homework Weekly\Rowe-Brandon-Chapter-11\Rowe-Brandon-Chapter-11\bin\Debug\Rowe-Brandon-Chapter-11.exe
+C:\Users\browe\Desktop\CPT\SCC CPT-185\Homework Weekly\Rowe-Brandon-Chapter-11\Rowe-Brandon-Chapter-11\bin\Debug\Rowe-Brandon-Chapter-11.pdb
+C:\Users\browe\Desktop\CPT\SCC CPT-185\Homework Weekly\Rowe-Brandon-Chapter-11\Rowe-Brandon-Chapter-11\obj\Debug\Rowe-Brandon-Chapter-11.csprojResolveAssemblyReference.cache
+C:\Users\browe\Desktop\CPT\SCC CPT-185\Homework Weekly\Rowe-Brandon-Chapter-11\Rowe-Brandon-Chapter-11\obj\Debug\Rowe_Brandon_Chapter_11.Form1.resources
+C:\Users\browe\Desktop\CPT\SCC CPT-185\Homework Weekly\Rowe-Brandon-Chapter-11\Rowe-Brandon-Chapter-11\obj\Debug\Rowe_Brandon_Chapter_11.Properties.Resources.resources
+C:\Users\browe\Desktop\CPT\SCC CPT-185\Homework Weekly\Rowe-Brandon-Chapter-11\Rowe-Brandon-Chapter-11\obj\Debug\Rowe-Brandon-Chapter-11.csproj.GenerateResource.Cache
+C:\Users\browe\Desktop\CPT\SCC CPT-185\Homework Weekly\Rowe-Brandon-Chapter-11\Rowe-Brandon-Chapter-11\obj\Debug\Rowe-Brandon-Chapter-11.exe
+C:\Users\browe\Desktop\CPT\SCC CPT-185\Homework Weekly\Rowe-Brandon-Chapter-11\Rowe-Brandon-Chapter-11\obj\Debug\Rowe-Brandon-Chapter-11.pdb
+C:\Users\browe\Desktop\CPT\SCC CPT-185\Homework Weekly\Rowe-Brandon-Chapter-11\Rowe-Brandon-Chapter-11\obj\Debug\Rowe_Brandon_Chapter_11.AboutBox.resources

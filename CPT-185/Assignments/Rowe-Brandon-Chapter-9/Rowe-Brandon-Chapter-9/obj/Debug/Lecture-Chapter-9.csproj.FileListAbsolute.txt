@@ -1,0 +1,25 @@
+C:\Users\browe\Desktop\Lecture-Chapter-9\Lecture-Chapter-9\bin\Debug\Lecture-Chapter-9.exe.config
+C:\Users\browe\Desktop\Lecture-Chapter-9\Lecture-Chapter-9\bin\Debug\Lecture-Chapter-9.exe
+C:\Users\browe\Desktop\Lecture-Chapter-9\Lecture-Chapter-9\bin\Debug\Lecture-Chapter-9.pdb
+C:\Users\browe\Desktop\Lecture-Chapter-9\Lecture-Chapter-9\obj\Debug\Lecture-Chapter-9.csprojResolveAssemblyReference.cache
+C:\Users\browe\Desktop\Lecture-Chapter-9\Lecture-Chapter-9\obj\Debug\Lecture_Chapter_9.AboutBox1.resources
+C:\Users\browe\Desktop\Lecture-Chapter-9\Lecture-Chapter-9\obj\Debug\Lecture_Chapter_9.Form1.resources
+C:\Users\browe\Desktop\Lecture-Chapter-9\Lecture-Chapter-9\obj\Debug\Lecture_Chapter_9.nutritionForm.resources
+C:\Users\browe\Desktop\Lecture-Chapter-9\Lecture-Chapter-9\obj\Debug\Lecture_Chapter_9.Properties.Resources.resources
+C:\Users\browe\Desktop\Lecture-Chapter-9\Lecture-Chapter-9\obj\Debug\Lecture-Chapter-9.csproj.GenerateResource.Cache
+C:\Users\browe\Desktop\Lecture-Chapter-9\Lecture-Chapter-9\obj\Debug\Lecture-Chapter-9.exe
+C:\Users\browe\Desktop\Lecture-Chapter-9\Lecture-Chapter-9\obj\Debug\Lecture-Chapter-9.pdb
+C:\Users\browe\Desktop\CPT\SCC CPT-185\Lecture\Lecture-Chapter-9\Lecture-Chapter-9\bin\Debug\Lecture-Chapter-9.exe.config
+C:\Users\browe\Desktop\CPT\SCC CPT-185\Lecture\Lecture-Chapter-9\Lecture-Chapter-9\obj\Debug\Lecture-Chapter-9.exe
+C:\Users\browe\Desktop\CPT\SCC CPT-185\Lecture\Lecture-Chapter-9\Lecture-Chapter-9\obj\Debug\Lecture-Chapter-9.pdb
+C:\Users\browe\Desktop\CPT\SCC CPT-185\Lecture\Lecture-Chapter-9\Lecture-Chapter-9\bin\Debug\Lecture-Chapter-9.exe
+C:\Users\browe\Desktop\CPT\SCC CPT-185\Lecture\Lecture-Chapter-9\Lecture-Chapter-9\bin\Debug\Lecture-Chapter-9.pdb
+C:\Users\browe\Desktop\CPT\SCC CPT-185\Lecture\Lecture-Chapter-9\Lecture-Chapter-9\obj\Debug\Lecture-Chapter-9.csprojResolveAssemblyReference.cache
+C:\Users\browe\Desktop\CPT\SCC CPT-185\Lecture\Lecture-Chapter-9\Lecture-Chapter-9\obj\Debug\Lecture_Chapter_9.AboutBox1.resources
+C:\Users\browe\Desktop\CPT\SCC CPT-185\Lecture\Lecture-Chapter-9\Lecture-Chapter-9\obj\Debug\Lecture_Chapter_9.Form1.resources
+C:\Users\browe\Desktop\CPT\SCC CPT-185\Lecture\Lecture-Chapter-9\Lecture-Chapter-9\obj\Debug\Lecture_Chapter_9.nutritionForm.resources
+C:\Users\browe\Desktop\CPT\SCC CPT-185\Lecture\Lecture-Chapter-9\Lecture-Chapter-9\obj\Debug\Lecture_Chapter_9.Properties.Resources.resources
+C:\Users\browe\Desktop\CPT\SCC CPT-185\Lecture\Lecture-Chapter-9\Lecture-Chapter-9\obj\Debug\Lecture-Chapter-9.csproj.GenerateResource.Cache
+C:\Users\browe\Desktop\Projects\CPT\SCC CPT-185\Lecture\Lecture-Chapter-9\Lecture-Chapter-9\bin\Debug\Lecture-Chapter-9.exe.config
+C:\Users\browe\Desktop\Projects\CPT\SCC CPT-185\Lecture\Lecture-Chapter-9\Lecture-Chapter-9\obj\Debug\Lecture-Chapter-9.exe
+C:\Users\browe\Desktop\Projects\CPT\SCC CPT-185\Lecture\Lecture-Chapter-9\Lecture-Chapter-9\obj\Debug\Lecture-Chapter-9.pdb

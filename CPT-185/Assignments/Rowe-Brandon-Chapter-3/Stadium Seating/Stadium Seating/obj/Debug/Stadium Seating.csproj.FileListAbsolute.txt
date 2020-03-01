@@ -1,0 +1,15 @@
+C:\Users\browe\Desktop\SCC CPT-185\Chapter 1 & 2\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.exe.config
+C:\Users\browe\Desktop\SCC CPT-185\Chapter 1 & 2\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.exe
+C:\Users\browe\Desktop\SCC CPT-185\Chapter 1 & 2\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.pdb
+C:\Users\browe\Desktop\SCC CPT-185\Chapter 1 & 2\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.csprojResolveAssemblyReference.cache
+C:\Users\browe\Desktop\SCC CPT-185\Chapter 1 & 2\Stadium Seating\Stadium Seating\obj\Debug\Stadium_Seating.Form1.resources
+C:\Users\browe\Desktop\SCC CPT-185\Chapter 1 & 2\Stadium Seating\Stadium Seating\obj\Debug\Stadium_Seating.Properties.Resources.resources
+C:\Users\browe\Desktop\SCC CPT-185\Chapter 1 & 2\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.csproj.GenerateResource.Cache
+C:\Users\browe\Desktop\SCC CPT-185\Chapter 1 & 2\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.exe
+C:\Users\browe\Desktop\SCC CPT-185\Chapter 1 & 2\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.pdb
+C:\Users\browe\Desktop\SCC CPT-185\Homework Weekly\Rowe-Brandon-Chapter-3\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.exe.config
+C:\Users\browe\Desktop\SCC CPT-185\Homework Weekly\Rowe-Brandon-Chapter-3\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.exe
+C:\Users\browe\Desktop\SCC CPT-185\Homework Weekly\Rowe-Brandon-Chapter-3\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.pdb
+C:\Users\browe\Desktop\Rowe-Brandon-Chapter-3\Stadium Seating\Stadium Seating\bin\Debug\Stadium Seating.exe.config
+C:\Users\browe\Desktop\Rowe-Brandon-Chapter-3\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.exe
+C:\Users\browe\Desktop\Rowe-Brandon-Chapter-3\Stadium Seating\Stadium Seating\obj\Debug\Stadium Seating.pdb

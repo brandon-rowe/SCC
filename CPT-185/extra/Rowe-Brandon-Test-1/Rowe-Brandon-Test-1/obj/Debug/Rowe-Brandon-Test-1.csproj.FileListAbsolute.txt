@@ -1,0 +1,6 @@
+c:\users\bhrowe\documents\visual studio 2012\Projects\Rowe-Brandon-Test-1\Rowe-Brandon-Test-1\bin\Debug\Rowe-Brandon-Test-1.exe.config
+C:\Users\bhrowe\Desktop\Rowe-Brandon-Test-1\Rowe-Brandon-Test-1\bin\Debug\Rowe-Brandon-Test-1.exe.config
+E:\BRowe\Rowe-Brandon-Test-1\Rowe-Brandon-Test-1\bin\Debug\Rowe-Brandon-Test-1.exe.config
+E:\BRowe\CPT\Rowe-Brandon-Test-1\Rowe-Brandon-Test-1\bin\Debug\Rowe-Brandon-Test-1.exe.config
+C:\Users\browe\Desktop\CPT\Rowe-Brandon-Test-1\Rowe-Brandon-Test-1\bin\Debug\Rowe-Brandon-Test-1.exe.config
+C:\Users\browe\Desktop\CPT\SCC CPT-185\Rowe-Brandon-Test-1\Rowe-Brandon-Test-1\bin\Debug\Rowe-Brandon-Test-1.exe.config

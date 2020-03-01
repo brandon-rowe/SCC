@@ -1,0 +1,8 @@
+notes for calculator app // final project
+have help about calculator
+have edit copy and view
+backspace button
+two labels to display concat
+no M row
+non expandable calculator
+be able to accept keyboard

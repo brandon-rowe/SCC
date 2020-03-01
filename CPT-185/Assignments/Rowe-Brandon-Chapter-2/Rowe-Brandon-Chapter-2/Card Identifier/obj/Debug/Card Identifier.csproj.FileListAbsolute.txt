@@ -1,0 +1,21 @@
+C:\Users\browe\Desktop\SCC CPT-185\Chapter 1 & 2\Card Identifier\Card Identifier\bin\Debug\Card Identifier.exe.config
+C:\Users\browe\Desktop\SCC CPT-185\Chapter 1 & 2\Card Identifier\Card Identifier\bin\Debug\Card Identifier.exe
+C:\Users\browe\Desktop\SCC CPT-185\Chapter 1 & 2\Card Identifier\Card Identifier\bin\Debug\Card Identifier.pdb
+C:\Users\browe\Desktop\SCC CPT-185\Chapter 1 & 2\Card Identifier\Card Identifier\obj\Debug\Card Identifier.csprojResolveAssemblyReference.cache
+C:\Users\browe\Desktop\SCC CPT-185\Chapter 1 & 2\Card Identifier\Card Identifier\obj\Debug\Card_Identifier.Form1.resources
+C:\Users\browe\Desktop\SCC CPT-185\Chapter 1 & 2\Card Identifier\Card Identifier\obj\Debug\Card_Identifier.Properties.Resources.resources
+C:\Users\browe\Desktop\SCC CPT-185\Chapter 1 & 2\Card Identifier\Card Identifier\obj\Debug\Card Identifier.csproj.GenerateResource.Cache
+C:\Users\browe\Desktop\SCC CPT-185\Chapter 1 & 2\Card Identifier\Card Identifier\obj\Debug\Card Identifier.exe
+C:\Users\browe\Desktop\SCC CPT-185\Chapter 1 & 2\Card Identifier\Card Identifier\obj\Debug\Card Identifier.pdb
+C:\Users\browe\Desktop\Rowe-Brandon-Chapter-2\Card Identifier\Card Identifier\bin\Debug\Card Identifier.exe.config
+C:\Users\browe\Desktop\Rowe-Brandon-Chapter-2\Card Identifier\Card Identifier\obj\Debug\Card Identifier.exe
+C:\Users\browe\Desktop\Rowe-Brandon-Chapter-2\Card Identifier\Card Identifier\obj\Debug\Card Identifier.pdb
+C:\Users\browe\Desktop\Rowe-Brandon-Chapter-2\Card Identifier\Card Identifier\bin\Debug\Card Identifier.exe
+C:\Users\browe\Desktop\Rowe-Brandon-Chapter-2\Card Identifier\Card Identifier\bin\Debug\Card Identifier.pdb
+C:\Users\browe\Desktop\Rowe-Brandon-Chapter-2\Card Identifier\Card Identifier\obj\Debug\Card Identifier.csprojResolveAssemblyReference.cache
+C:\Users\browe\Desktop\Rowe-Brandon-Chapter-2\Card Identifier\Card Identifier\obj\Debug\Card_Identifier.Form1.resources
+C:\Users\browe\Desktop\Rowe-Brandon-Chapter-2\Card Identifier\Card Identifier\obj\Debug\Card_Identifier.Properties.Resources.resources
+C:\Users\browe\Desktop\Rowe-Brandon-Chapter-2\Card Identifier\Card Identifier\obj\Debug\Card Identifier.csproj.GenerateResource.Cache
+C:\Users\browe\Desktop\SCC CPT-185\Homework Weekly\Rowe-Brandon-Chapter-2\Card Identifier\Card Identifier\bin\Debug\Card Identifier.exe.config
+C:\Users\browe\Desktop\SCC CPT-185\Homework Weekly\Rowe-Brandon-Chapter-2\Card Identifier\Card Identifier\obj\Debug\Card Identifier.exe
+C:\Users\browe\Desktop\SCC CPT-185\Homework Weekly\Rowe-Brandon-Chapter-2\Card Identifier\Card Identifier\obj\Debug\Card Identifier.pdb
