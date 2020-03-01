@@ -1,0 +1,15 @@
+C:\Users\browe\Desktop\Projects\CPT\SCC CPT-206\Test\Brandon-Rowe-Chapter-6\Brandon-Rowe-Chapter-6\bin\Debug\Brandon-Rowe-Chapter-6.exe.config
+C:\Users\browe\Desktop\Projects\CPT\SCC CPT-206\Homework\Brandon-Rowe-Chapter-6\Brandon-Rowe-Chapter-6\bin\Debug\Brandon-Rowe-Chapter-6.exe.config
+C:\Users\browe\Desktop\Projects\CPT\SCC CPT-206\Homework\Brandon-Rowe-Chapter-6\Brandon-Rowe-Chapter-6\bin\Debug\Brandon-Rowe-Chapter-6.exe
+C:\Users\browe\Desktop\Projects\CPT\SCC CPT-206\Homework\Brandon-Rowe-Chapter-6\Brandon-Rowe-Chapter-6\bin\Debug\Brandon-Rowe-Chapter-6.pdb
+C:\Users\browe\Desktop\Projects\CPT\SCC CPT-206\Homework\Brandon-Rowe-Chapter-6\Brandon-Rowe-Chapter-6\bin\Debug\Brandon-Rowe-Chapter-6.xml
+C:\Users\browe\Desktop\Projects\CPT\SCC CPT-206\Homework\Brandon-Rowe-Chapter-6\Brandon-Rowe-Chapter-6\obj\Debug\Brandon_Rowe_Chapter_6.Form1.resources
+C:\Users\browe\Desktop\Projects\CPT\SCC CPT-206\Homework\Brandon-Rowe-Chapter-6\Brandon-Rowe-Chapter-6\obj\Debug\Brandon_Rowe_Chapter_6.Resources.resources
+C:\Users\browe\Desktop\Projects\CPT\SCC CPT-206\Homework\Brandon-Rowe-Chapter-6\Brandon-Rowe-Chapter-6\obj\Debug\Brandon-Rowe-Chapter-6.vbproj.GenerateResource.Cache
+C:\Users\browe\Desktop\Projects\CPT\SCC CPT-206\Homework\Brandon-Rowe-Chapter-6\Brandon-Rowe-Chapter-6\obj\Debug\Brandon-Rowe-Chapter-6.exe
+C:\Users\browe\Desktop\Projects\CPT\SCC CPT-206\Homework\Brandon-Rowe-Chapter-6\Brandon-Rowe-Chapter-6\obj\Debug\Brandon-Rowe-Chapter-6.xml
+C:\Users\browe\Desktop\Projects\CPT\SCC CPT-206\Homework\Brandon-Rowe-Chapter-6\Brandon-Rowe-Chapter-6\obj\Debug\Brandon-Rowe-Chapter-6.pdb
+C:\Users\browe\Desktop\CPT\SCC CPT-206\Homework\Brandon-Rowe-Chapter-6\Brandon-Rowe-Chapter-6\bin\Debug\Brandon-Rowe-Chapter-6.exe.config
+C:\Users\browe\Desktop\CPT\SCC CPT-206\Homework\Brandon-Rowe-Chapter-6\Brandon-Rowe-Chapter-6\obj\Debug\Brandon-Rowe-Chapter-6.exe
+C:\Users\browe\Desktop\CPT\SCC CPT-206\Homework\Brandon-Rowe-Chapter-6\Brandon-Rowe-Chapter-6\obj\Debug\Brandon-Rowe-Chapter-6.xml
+C:\Users\browe\Desktop\CPT\SCC CPT-206\Homework\Brandon-Rowe-Chapter-6\Brandon-Rowe-Chapter-6\obj\Debug\Brandon-Rowe-Chapter-6.pdb

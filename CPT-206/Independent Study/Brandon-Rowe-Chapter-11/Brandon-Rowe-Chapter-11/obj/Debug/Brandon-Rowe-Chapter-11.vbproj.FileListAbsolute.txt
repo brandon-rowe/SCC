@@ -1,0 +1,10 @@
+C:\Users\browe\Desktop\CPT\SCC CPT-206\Homework\Brandon-Rowe-Chapter-11\Brandon-Rowe-Chapter-11\bin\Debug\Brandon-Rowe-Chapter-11.exe.config
+C:\Users\browe\Desktop\CPT\SCC CPT-206\Homework\Brandon-Rowe-Chapter-11\Brandon-Rowe-Chapter-11\bin\Debug\Brandon-Rowe-Chapter-11.exe
+C:\Users\browe\Desktop\CPT\SCC CPT-206\Homework\Brandon-Rowe-Chapter-11\Brandon-Rowe-Chapter-11\bin\Debug\Brandon-Rowe-Chapter-11.pdb
+C:\Users\browe\Desktop\CPT\SCC CPT-206\Homework\Brandon-Rowe-Chapter-11\Brandon-Rowe-Chapter-11\bin\Debug\Brandon-Rowe-Chapter-11.xml
+C:\Users\browe\Desktop\CPT\SCC CPT-206\Homework\Brandon-Rowe-Chapter-11\Brandon-Rowe-Chapter-11\obj\Debug\Brandon_Rowe_Chapter_11.frmMain.resources
+C:\Users\browe\Desktop\CPT\SCC CPT-206\Homework\Brandon-Rowe-Chapter-11\Brandon-Rowe-Chapter-11\obj\Debug\Brandon_Rowe_Chapter_11.Resources.resources
+C:\Users\browe\Desktop\CPT\SCC CPT-206\Homework\Brandon-Rowe-Chapter-11\Brandon-Rowe-Chapter-11\obj\Debug\Brandon-Rowe-Chapter-11.vbproj.GenerateResource.Cache
+C:\Users\browe\Desktop\CPT\SCC CPT-206\Homework\Brandon-Rowe-Chapter-11\Brandon-Rowe-Chapter-11\obj\Debug\Brandon-Rowe-Chapter-11.exe
+C:\Users\browe\Desktop\CPT\SCC CPT-206\Homework\Brandon-Rowe-Chapter-11\Brandon-Rowe-Chapter-11\obj\Debug\Brandon-Rowe-Chapter-11.xml
+C:\Users\browe\Desktop\CPT\SCC CPT-206\Homework\Brandon-Rowe-Chapter-11\Brandon-Rowe-Chapter-11\obj\Debug\Brandon-Rowe-Chapter-11.pdb
