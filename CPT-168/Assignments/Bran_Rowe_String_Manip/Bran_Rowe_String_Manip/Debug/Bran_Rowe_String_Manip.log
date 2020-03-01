@@ -1,0 +1,4 @@
+﻿  Bran_Rowe_String_Manip.cpp
+d:\browe\cpt-168-2\lab assignments\bran_rowe_string_manip\bran_rowe_string_manip.cpp(49): warning C4305: 'argument' : truncation from 'int' to 'char'
+d:\browe\cpt-168-2\lab assignments\bran_rowe_string_manip\bran_rowe_string_manip.cpp(49): warning C4309: 'argument' : truncation of constant value
+  Bran_Rowe_String_Manip.vcxproj -> D:\BRowe\CPT-168-2\Lab Assignments\Bran_Rowe_String_Manip\Debug\Bran_Rowe_String_Manip.exe
